@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Compton Controls
+Comment=Turn Compton On or Off
+Categories=Utility;
+Exec=/bin/miyo-compton
+Icon=compton

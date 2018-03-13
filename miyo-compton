@@ -1,0 +1,6 @@
+#!/bin/sh
+yad --title="Compton" --width=230 --window-icon="/usr/share/miyolinux/miyolinux.png" --text-align=center --center --buttons-layout="center" --text="
+Turn Compton On or Off.
+" \
+--button="On":"compton" \
+--button="Off":"killall compton" \
